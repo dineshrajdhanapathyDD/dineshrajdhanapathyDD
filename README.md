@@ -7,16 +7,19 @@
 
 - 🌱 I’m currently learning **devops, Automation testing.**
 
+- 💬 Participated in cncf-zero-to-merge program.
+
 - 📝 I write articles on [https://medium.com/dineshrajdhanapathy](https://medium.com/dineshrajdhanapathy)
 
-- 💬 Ask me about **software testing.**
+- 💬 Ask me about **software testing & DevOps.**
 
 - 📫 How to reach me **dineshrajdhanapathy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dineshraj-dhanapathy-dd-25490058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshraj-dhanapathy-dd-25490058" height="30" width="40" /></a>
-<a href="https://medium.com/dineshrajdhanapathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dineshrajdhanapathy" height="30" width="40" /></a>
+<a href="[https://medium.com/dineshrajdhanapathy](https://medium.com/@dineshrajdhanapathy)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dineshrajdhanapathy" height="30" width="40" /></a>
+<a href="mailto:dineshrajdhanapathy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 <br><br>
 
@@ -70,4 +73,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshrajdhanapathydd&show_icons=true&locale=en" alt="dineshrajdhanapathydd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshrajdhanapathydd&" alt="dineshrajdhanapathydd" /></p>
+
 
