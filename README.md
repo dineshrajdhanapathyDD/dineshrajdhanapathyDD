@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **devops, Automation testing.**
 
-- 💬 Participated in cncf-zero-to-merge program.
+- 💬 Participated in **cncf-zero-to-merge** program.
 
 - 📝 I write articles on [https://medium.com/dineshrajdhanapathy](https://medium.com/dineshrajdhanapathy)
 
