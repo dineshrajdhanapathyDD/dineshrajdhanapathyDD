@@ -18,8 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dineshraj-dhanapathy-dd-25490058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshraj-dhanapathy-dd-25490058" height="30" width="40" /></a>
-<a href="https://medium.com/dineshrajdhanapathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dineshrajdhanapathy" height="30" width="40" /></a>
+<a href="https://medium.com/@dineshrajdhanapathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dineshrajdhanapathy" height="30" width="40" /></a>
 <a href="mailto:dineshrajdhanapathy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.upwork.com/freelancers/~01802868d75870d447"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+    <a href="https://stackoverflow.com/users/12859445/dineshrajdhanapathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://www.quora.com/profile/Dineshraj-Dhanapathy"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
 </p>
 <br><br>
 
@@ -51,14 +54,25 @@
 - **Other Tools and Technologies**:
 
   <img src="https://img.shields.io/badge/Selenium-F37623?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Cypress-3DDC84?style=for-the-badge&logo=cypress&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/jenkins-D9D8D6?style=for-the-badge&logo=jenkins&logoColor=red">
-  <img src="https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white">
+
+
+
+  <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+  <img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+  <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+  <img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png">
+  <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> <span><b><center>Ansible</center></b></span>
+  <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+
+ <!-- <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+   <img src="https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/jenkins-D9D8D6?style=for-the-badge&logo=jenkins&logoColor=red">
+     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+   -->
     
 </p>
 
