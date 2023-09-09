@@ -35,39 +35,39 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+   <a href="https://en.wikipedia.org/wiki/Objective-C" target="_blank" rel="noreferrer"> ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) </a>
+   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) </a>
   
 - **IDE**:
 
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">    
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-%23575757.svg?&style=for-the-badge&logo=Intellij IDEA&logoColor=important">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> </a>   
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJ IDEA-%23575757.svg?&style=for-the-badge&logo=Intellij IDEA&logoColor=important"> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
   
 - **Operating System**:
 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <a href="https://www.linux.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
+ <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
+ <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
   
 - **Other Tools and Technologies**:
 
-  <img src="https://img.shields.io/badge/Selenium-F37623?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Cypress-3DDC84?style=for-the-badge&logo=cypress&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Selenium-F37623?style=for-the-badge&logo=Selenium&logoColor=white"> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> </a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cypress-3DDC84?style=for-the-badge&logo=cypress&logoColor=white"> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"> </a>
   
   
   <li>
-  <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-  <img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-  <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-  <img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png">
-  <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> <span><b><center>Ansible</center></b></span>
-  <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> <span><b><center>Ansible</center></b></span> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> </a>
   </li>
 
  <!-- <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
