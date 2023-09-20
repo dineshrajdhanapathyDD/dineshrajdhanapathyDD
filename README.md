@@ -89,6 +89,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshrajdhanapathydd&show_icons=true&locale=en" alt="dineshrajdhanapathydd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshrajdhanapathydd&" alt="dineshrajdhanapathydd" /></p>
+ <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshrajdhanapathydd&" alt="dineshrajdhanapathydd" /></p> -->
 
 
