@@ -13,7 +13,7 @@
 
 - 💬 Participated in **cncf-zero-to-merge** program.
 
-- 📝 I write articles on [https://medium.com/dineshrajdhanapathy](https://medium.com/dineshrajdhanapathy)
+- 📝 I write articles on [https://medium.com/dineshrajdhanapathy](https://medium.com/@dineshrajdhanapathy)
 
 - 💬 Ask me about **software testing & DevOps.**
 
