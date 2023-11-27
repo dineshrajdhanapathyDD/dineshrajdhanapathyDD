@@ -1,6 +1,6 @@
 [**kodekloud-Engineer**](https://github.com/dineshrajdhanapathyDD/kodekloud-Engineer_project)
 
-![kke-pic](https://github.com/dineshrajdhanapathyDD/kodekloud-Engineer_project/assets/52989362/6f182d2b-d434-40ea-8cdb-0609b2fd4fb7)
+![kk dashboard rank](https://github.com/dineshrajdhanapathyDD/dineshrajdhanapathyDD/assets/52989362/c0edf74c-cb39-465f-bdbf-ca63b721f9af)
 
 [![An image of @dineshrajdhanapathydd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dineshrajdhanapathydd)](https://holopin.io/@dineshrajdhanapathydd)
 
