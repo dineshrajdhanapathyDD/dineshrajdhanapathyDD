@@ -9,9 +9,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdineshrajdhanapathyDD%2FdineshrajdhanapathyDD%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🌱 I’m currently learning **devops, Automation testing.**
+- 🌱 I’m currently learning **DevOps, Automation testing.**
 
-- 💬 Participated in **cncf-zero-to-merge** program.
+- 💬 Participated in **cncf-zero-to-merge** and **TestFlix2023** program.
 
 - 📝 I write articles on [https://medium.com/dineshrajdhanapathy](https://medium.com/@dineshrajdhanapathy)
 
