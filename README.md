@@ -2,7 +2,6 @@
 
 <!-- ![kk dashboard rank](https://github.com/dineshrajdhanapathyDD/dineshrajdhanapathyDD/assets/52989362/c0edf74c-cb39-465f-bdbf-ca63b721f9af) -->
 
-[![An image of @dineshrajdhanapathydd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dineshrajdhanapathydd)](https://holopin.io/@dineshrajdhanapathydd)
 
 
 <!--<h1 align="center">Hi 👋, I'm Dineshraj Dhanapathy</h1>-->
@@ -37,6 +36,8 @@
         <a href="https://www.quora.com/profile/Dineshraj-Dhanapathy"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
 </p>
 <br><br>
+
+[![An image of @dineshrajdhanapathydd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dineshrajdhanapathydd)](https://holopin.io/@dineshrajdhanapathydd)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
